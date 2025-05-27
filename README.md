@@ -39,7 +39,8 @@ def circulate():
         
 ```
 ## Output:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/6a115463-675f-40ae-bfbe-5beeadab4ea2)
+
 
 ## Result:
 Thus the program to circulate the n variables using function is written and verified using python programming.
